@@ -1,6 +1,6 @@
 # CandyPay
 
-This repository contains the brand assets for CandyPay.
+This repository contains the brand assets of CandyPay.
 
 ## Assets
 
